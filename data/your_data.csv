@@ -1,0 +1,11 @@
+id,numerical_column_1,numerical_column_2,categorical_column,target_column
+1,23,0.5,A,0
+2,45,1.2,B,1
+3,34,0.9,C,0
+4,12,0.3,A,1
+5,67,1.5,B,0
+6,50,1.0,C,1
+7,39,0.8,A,0
+8,55,1.3,B,1
+9,28,0.6,C,0
+10,42,1.1,A,1
